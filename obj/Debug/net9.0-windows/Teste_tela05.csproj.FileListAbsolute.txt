@@ -1,0 +1,2 @@
+C:\Users\gustavo.opereira4.SENACEDU\Desktop\Teste_Tela05\Teste_tela05\Teste_tela05\bin\Debug\net9.0-windows\Teste_tela05.exe
+C:\Users\gustavo.opereira4.SENACEDU\Desktop\Teste_Tela05\Teste_tela05\Teste_tela05\bin\Debug\net9.0-windows\Teste_tela05.dll
